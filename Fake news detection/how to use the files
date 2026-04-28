@@ -1,4 +1,3 @@
 #find datasets from kraggle name them fake.csv and true.csv
 #create a virtual enviroment with a command or if you are using vs code it will suggest itself
 #make sure to use pip install (----) whatever libraries that are imported in the train model file and app.py file
-#use chatgpt for clarity
