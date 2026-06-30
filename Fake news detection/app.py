@@ -10,4 +10,4 @@ if st.button("Predict"):
     if prediction == 0:
         st.error("The news is Fake")
     else:
-        st.success("The news is True").
+        st.success("The news is True")
